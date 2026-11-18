@@ -1,0 +1,4 @@
+gpg: Signature made Wed 18 Nov 2026 06:03:01 AM EST
+gpg:                using RSA key FFF7511E56DE8B742B95E9C366F34A915458F97C
+gpg:                issuer "labops-release@labops.example"
+gpg: BAD signature from "LabOps Release <labops-release@labops.example>" [ultimate]
